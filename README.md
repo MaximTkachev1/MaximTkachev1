@@ -38,14 +38,6 @@
 
 ---
 
-### Чем я сейчас занимаюсь
-
-- ⚗️ Экспериментирую с GPT-4 и aiogram  
-- 🧠 Пишу собственный бот с элементами ИИ  
-- 💡 Изучаю асинхронность, базы данных и архитектуру проектов  
-
----
-
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MjJtcmN5M3dkcnFxOG14MHVqa3Nvemwwb3V4ODJyMjF3enQ3cWw4MSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/55PkuDHvG7u36/giphy.gif" width="480" height="270" alt="coding gif">
